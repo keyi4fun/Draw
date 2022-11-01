@@ -6,7 +6,7 @@
 
 ---
 ![2](2_original.jpg)
-![2](2_zhang.jpg)
+![2](2_deechael.jpg)
 
 ---
 ![7](7_original.jpg)
