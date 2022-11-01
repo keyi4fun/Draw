@@ -1,2 +1,2 @@
 # Draw
-The 逆天 patings of the members
+The 逆天(~~Anti Logical~~) patings of the members
