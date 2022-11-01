@@ -5,10 +5,10 @@
 ![1](1_original.jpg)
 ![1](1_zhang.jpg)
 -->
-<div style="display:inline-block;">
+<li style="display:inline-block;">
   <img src="1_original.jpg"></img>
   <img src="1_zhang.jpg"></img>
-</div>
+</li>
 ---
 ![2](2_original.jpg)
 ![2](2_zhang.jpg)
